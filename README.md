@@ -1,4 +1,4 @@
-# Простой трекинг объектов
+# Simple object tracking
 
 Полезные ссылки:
 - [Object Tracking with OpenCV](https://livecodestream.dev/post/object-tracking-with-opencv)
