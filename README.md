@@ -21,7 +21,7 @@ cd src
 python3 simple_object_tracking.py --video ../assets/videos/input.mp4 --tracker-type csrt
 ```
 
-### Запуск детекции объктов
+### Запуск детекции объектов
 ```bash
 cd src
 python3 simple_yolov4_object_detection.py \
